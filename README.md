@@ -1,2 +1,3 @@
-# bogaziciai
+# BogaziciAI
 Independent AI Research Community
+
