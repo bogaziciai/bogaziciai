@@ -1,4 +1,4 @@
-# Assignment Repository <a href='https://bogaziciai.com//'><img src='logo/bogaziciai-logo-sq.png' align="right" height="139" /></a>
+# bogaziciAI <a href='https://bogaziciai.com//'><img src='logo/bogaziciai-logo-sq.png' align="right" height="139" /></a>
 
 bogaziciAI is a non-profit community that focuses on recruiting new researchers in the area, developing AI projects, and assisting on-going projects.
 
